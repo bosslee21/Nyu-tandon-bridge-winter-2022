@@ -10,4 +10,3 @@ The NYU Tandon Bridge program is taught by faculty members of the Computer Scien
 
 This non-credit certificate course is equivalent to 400 hours of learning and more than three courses containing topics in Computer Programming in C++, Object Oriented Design, Discrete Math, Data Structures and Algorithms, Principles of Operating Systems, and Introduction to Computer Networks. Students will be required to use the NYU Tandon Bridge program textbooks.
 
-Basic proficiency in college algebra and some exposure to C++ is recommended for success in the course. Please see our suggested Preparatory Resources for learning prior to the start of the course.
